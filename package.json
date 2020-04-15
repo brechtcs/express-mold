@@ -1,0 +1,32 @@
+{
+  "name": "express-mold",
+  "version": "1.0.0",
+  "description": "Mold view engine for Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example/server.js"
+  },
+  "dependencies": {
+    "mold-template": "^2.0.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "mold",
+    "template",
+    "express",
+    "render",
+    "engine"
+  ],
+  "bugs": {
+    "url": "https://github.com/brechtcs/express-mold/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brechtcs/express-mold.git"
+  },
+  "homepage": "https://github.com/brechtcs/express-mold#readme",
+  "author": "Brecht Savelkoul <brecht.savelkoul@alumni.lse.ac.uk>",
+  "license": "Apache-2.0"
+}
